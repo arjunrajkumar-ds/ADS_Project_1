@@ -1,5 +1,15 @@
 
-raw_data/tlc_data/2022-01.parquet
-raw_data/tlc_data/2022-02.parquet
-raw_data/tlc_data/2022-03.parquet
-raw_data/tlc_data/2022-04.parquet
+
+raw_data/property_data/bronx.xlsx
+raw_data/property_data/brooklyn.xlsx
+raw_data/property_data/manhattan.xlsx
+raw_data/property_data/queens.xlsx
+raw_data/property_data/statenisland.xlsx
+raw_data/tlc_green/2022-01.parquet
+raw_data/tlc_green/2022-03.parquet
+raw_data/tlc_green/2022-04.parquet
+raw_data/tlc_yellow/2022-01.parquet
+raw_data/tlc_yellow/2022-02.parquet
+raw_data/tlc_yellow/2022-03.parquet
+raw_data/tlc_green/2022-02.parquet
+raw_data/tlc_yellow/2022-04.parquet
