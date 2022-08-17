@@ -13,3 +13,7 @@ raw_data/tlc_yellow/2022-02.parquet
 raw_data/tlc_yellow/2022-03.parquet
 raw_data/tlc_green/2022-02.parquet
 raw_data/tlc_yellow/2022-04.parquet
+raw_data/tlc_data/2022-01.parquet
+raw_data/tlc_data/2022-02.parquet
+raw_data/tlc_data/2022-03.parquet
+raw_data/tlc_data/2022-04.parquet
