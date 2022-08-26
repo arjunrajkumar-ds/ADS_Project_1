@@ -8,3 +8,6 @@ The property valuation data downloaded from the ___ includes some leading rows t
 - Right click the selection you just made and click `Delete`
 - Save the file with `CTRL + S`
 - Repeat for the other borough files
+
+
+## Taxi Zones CSV + Lookup Table
