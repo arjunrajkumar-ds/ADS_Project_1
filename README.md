@@ -9,9 +9,6 @@ The property valuation data downloaded from the ___ includes some leading rows t
 - Save the file with `CTRL + S`
 - Repeat for the other borough files
 
-
-## Taxi Zones CSV + Lookup Table
-
 All notebooks will run start to finish. Please run the notebooks in this order -
 - `download_script`
 - `preprocessing`
