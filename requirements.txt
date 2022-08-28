@@ -1,4 +1,6 @@
-The following libraries are required -
+The following libraries are required and can be installed in bash with:
+
+pip3 install ...
 
 pyspark
 pandas
