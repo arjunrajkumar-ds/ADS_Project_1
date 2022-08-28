@@ -1,0 +1,9 @@
+The following libraries are required -
+
+pyspark
+pandas
+numpy
+scipy
+geopandas
+seaborn
+sklearn

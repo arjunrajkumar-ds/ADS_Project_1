@@ -100,3 +100,15 @@ figures/corr.JPG
 figures/class_pie.JPG
 figures/borough_pie.JPG
 clean_data/yellow_numerical_pd
+clean_data/yellow_clean.parquet/.part-00000-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/.part-00001-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/.part-00002-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/.part-00003-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/.part-00009-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/.part-00010-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet.crc
+clean_data/yellow_clean.parquet/part-00000-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
+clean_data/yellow_clean.parquet/part-00001-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
+clean_data/yellow_clean.parquet/part-00002-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
+clean_data/yellow_clean.parquet/part-00003-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
+clean_data/yellow_clean.parquet/part-00009-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
+clean_data/yellow_clean.parquet/part-00010-a1e4cd87-033d-4e8b-9a45-f350e12766c4-c000.snappy.parquet
