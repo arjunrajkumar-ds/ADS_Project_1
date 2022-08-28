@@ -11,3 +11,9 @@ The property valuation data downloaded from the ___ includes some leading rows t
 
 
 ## Taxi Zones CSV + Lookup Table
+
+All notebooks will run start to finish. Please run the notebooks in this order -
+- `download_script`
+- `preprocessing`
+- `EDA`
+- `modelling`
